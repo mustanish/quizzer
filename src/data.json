@@ -1,0 +1,40 @@
+{
+  "categories":[
+    {"value":"Any Category","key":"any"},
+    {"value":"General Knowledge","key":"9"},
+    {"value":"Entertainment: Books","key":"10"},
+    {"value":"Entertainment: Film","key":"11"},
+    {"value":"Entertainment: Music","key":"12"},
+    {"value":"Entertainment: Musicals & Theatres","key":"13"},
+    {"value":"Entertainment: Television","key":"14"},
+    {"value":"Entertainment: Video Games","key":"15"},
+    {"value":"Entertainment: Board Games","key":"16"},
+    {"value":"Science & Nature","key":"17"},
+    {"value":"Science: Computers","key":"18"},
+    {"value":"Science: Mathematics","key":"19"},
+    {"value":"Mythology","key":"20"},
+    {"value":"Sports","key":"21"},
+    {"value":"Geography","key":"22"},
+    {"value":"History","key":"23"},
+    {"value":"Politics","key":"24"},
+    {"value":"Art","key":"25"},
+    {"value":"Celebrities","key":"26"},
+    {"value":"Animals","key":"27"},
+    {"value":"Vehicles","key":"28"},
+    {"value":"Entertainment: Comics","key":"29"},
+    {"value":"Science: Gadgets","key":"30"},
+    {"value":"Entertainment: Japanese Anime & Manga","key":"31"},
+    {"value":"Entertainment: Cartoon & Animations","key":"32"}
+  ],
+  "diffculties":[
+    {"value":"Any Difficulty","key":"any"},
+    {"value":"Easy","key":"easy"},
+    {"value":"Medium","key":"medium"},
+    {"value":"Hard","key":"hard"}
+  ],
+  "types":[
+    {"value":"Any Type","key":"any"},
+    {"value":"Multiple Choice","key":"multiple"},
+    {"value":"True / False","key":"boolean"}
+  ]
+}
